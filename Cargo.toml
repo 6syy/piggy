@@ -1,9 +1,10 @@
 [package]
 name = "piggy"
-license = "MIT OR Apache-2.0"
 version = "0.1.0"
-authors = ["6syy"]
+authors = ["6syy <win8_x@163.com>"]
 edition = "2018"
+description = "一个web项目，普通的CMS。"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
